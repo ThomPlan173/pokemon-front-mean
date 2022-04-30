@@ -112,8 +112,8 @@
             "prerender": false,
             "ssr": false,
             "browserTarget": "hello-world:build:production",
-            "firebaseProject": "pokemon-app-31f75",
-            "firebaseHostingSite": "pokemon-app-31f75"
+            "firebaseProject": "pokemon-app-ea8bf",
+            "firebaseHostingSite": "pokemon-app-ea8bf"
           }
         }
       }
