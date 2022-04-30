@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "lp-dim-app-82d7b": {
+      "hosting": {
+        "hello-world": [
+          "lp-dim-app-82d7b"
+        ]
+      }
+    },
+    "pokemon-app-31f75": {
+      "hosting": {
+        "hello-world": [
+          "pokemon-app-31f75"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "pokemon-app-31f75"
+  }
+}
